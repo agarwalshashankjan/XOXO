@@ -2,7 +2,8 @@
 function gameLogic() {
 
 	
-	var btn1, btn2, btn3, btn4, btn5, btn6, btn7, btn8, btn9;
+	var btn1, 
+	btn2, btn3, btn4, btn5, btn6, btn7, btn8, btn9;
 	btn1 = document.getElementById("btn1").value;
 	btn2 = document.getElementById("btn2").value;
 	btn3 = document.getElementById("btn3").value;
